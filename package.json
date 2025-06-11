@@ -1,0 +1,17 @@
+{
+  "name": "react-native-sdk-otpverification-rt",
+  "version": "1.1.1",
+  "description": "React Native OTP Verification SDK",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ramkrishna Mandal",
+  "license": "ISC",
+  "peerDependencies": {
+    "axios": "^1.9.0",
+    "react": "19.0.0",
+    "react-native": "0.79.3"
+  }
+}
