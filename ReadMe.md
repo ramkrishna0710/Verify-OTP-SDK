@@ -13,7 +13,7 @@ yarn add react-native-otp-verification-rt
 ```
 
 ## Basic Code Template
-
+```
 import React, { useState } from 'react';
 import {
   View,
@@ -135,3 +135,4 @@ const styles = StyleSheet.create({
   },
 });
 
+```
