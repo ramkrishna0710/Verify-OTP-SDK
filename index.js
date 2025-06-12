@@ -1,5 +1,5 @@
 import axios from 'axios';
-import React, { useState, useRef, useEffect } from 'react';
+import { useState, useRef, useEffect } from 'react';
 import {
     View,
     Text,
@@ -9,7 +9,6 @@ import {
     KeyboardAvoidingView,
     Platform,
     ActivityIndicator,
-    Modal,
 } from 'react-native';
 
 const EmailOtpScreen = ({ userName = '', userEmail = '', userPassword = '', onClose }) => {

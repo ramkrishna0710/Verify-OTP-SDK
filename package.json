@@ -1,6 +1,6 @@
 {
   "name": "react-native-sdk-otpverification-rt",
-  "version": "1.1.1",
+  "version": "1.1.3",
   "description": "React Native OTP Verification SDK",
   "main": "index.js",
   "types": "index.d.ts",
@@ -13,5 +13,8 @@
     "axios": "^1.9.0",
     "react": "19.0.0",
     "react-native": "0.79.3"
+  },
+  "dependencies": {
+    "typescript": "^5.8.3"
   }
 }

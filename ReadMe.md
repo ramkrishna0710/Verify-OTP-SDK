@@ -24,7 +24,7 @@ import {
   SafeAreaView,
   Modal,
 } from 'react-native';
-import EmailOtpScreen from './src/EmailOtpScreen';
+import EmailOtpScreen from 'react-native-sdk-otpverification-rt';
 
 const App = () => {
   const [name, setName] = useState('');
