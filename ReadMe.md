@@ -7,7 +7,7 @@ A simple React Native component for sending and verifying OTP via email during u
 ## Installation
 
 ```bash
-npm install react-native-otp-verification-rt
+npm i react-native-sdk-otpverification-rt
 # or
 yarn add react-native-otp-verification-rt
 ```
